@@ -50,9 +50,7 @@ namespace CSHARP
         {
             if (code == 1234)
             {
-                this.Credit(12000);
-                this.Debit(1000);
-                this.CheckBalance();
+          
                 return true;
             }
             else

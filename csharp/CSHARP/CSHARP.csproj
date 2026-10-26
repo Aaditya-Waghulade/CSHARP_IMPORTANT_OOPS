@@ -9,7 +9,7 @@
     <InvariantGlobalization>true</InvariantGlobalization>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
-    <StartupObject></StartupObject>
+    <StartupObject>CSHARP.Arralist</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
